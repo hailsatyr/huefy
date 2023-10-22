@@ -1,3 +1,3 @@
-module github.com/m-messiah/xye-bot
+module github.com/hailsatyr/xye-bot
 
 go 1.20
